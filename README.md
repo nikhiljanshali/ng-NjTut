@@ -54,5 +54,6 @@
 
 
 <b>HTML / CSS Cheat Sheet:</b>
-
-http://docs.emmet.io/cheat-sheet/
+    <pre>
+      http://docs.emmet.io/cheat-sheet/
+    </pre>
