@@ -53,6 +53,6 @@
   </pre>
 
 
-HTML / CSS Cheat Sheet:
+<b>HTML / CSS Cheat Sheet:</b>
 
 http://docs.emmet.io/cheat-sheet/
