@@ -49,7 +49,7 @@
   <pre>
     $ code
     $ code.
-    $ code path/to/whatever
+    $ code path/to/whatever (e.g: $ code e:/project/example1/)
   </pre>
 
 
