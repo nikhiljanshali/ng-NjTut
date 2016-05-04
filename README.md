@@ -41,6 +41,7 @@
     <pre>live-server --port = “portno”  (e.g : live-serve –port=9898)</pre>
 
 <b>ConEmu : </b>
+  <label>Open ConEmu</label>
   <pre>
     Run : “conemu64 / conemu” 
   </pre>
