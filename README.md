@@ -57,8 +57,9 @@
   <p>
     Basic Introduction and Installation command 
     <pre>
-        https://www.npmjs.com/package/gulp
+      https://www.npmjs.com/package/gulp
     </pre>
+    npm install gulp
   </p>
   
   
