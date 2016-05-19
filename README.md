@@ -52,6 +52,25 @@
     $ code.
     $ code path/to/whatever (e.g: $ code e:/project/example1/)
   </pre>
+  
+  <b>Gulp Install</b>
+  <p>
+    Basic Introduction and Installation command 
+    https://www.npmjs.com/package/gulp
+  </p>
+  
+  
+  
+  <b>SCSS</b>
+  <br/>
+  To Compile the css using gulp, you have to follow the step :
+  
+    1. First Create the scss file 
+    2. Then save it.
+    3. Open the bit bash command prompt using context menu or from command prompt.
+    4. type the follwoing command 'gulp sass'
+    5. it will generate the css file then use the class which you wnat for you html
+  
 
 
 <b>HTML / CSS Cheat Sheet:</b>
