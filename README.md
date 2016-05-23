@@ -82,7 +82,7 @@
     </pre>
     
 <h3>Socket IO</h3>
-  <b>Usage of : <i>Socket-IO<i></b>  is to use communicate with server and send real time notification.
+  <b>Usage of : <i>Socket-IO</i></b>  is to use communicate with server and send real time notification.
   <pre>
       npm install socket.io-client
   </pre>
