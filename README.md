@@ -76,7 +76,17 @@
   
 
 
-<b>HTML / CSS Cheat Sheet:</b>
+  <b>HTML / CSS Cheat Sheet:</b>
     <pre>
       http://docs.emmet.io/cheat-sheet/
     </pre>
+    
+<h3>Socket IO</h3>
+  <b>Usage of : <i>Socket-IO<i></b>  is to use communicate with server and send real time notification.
+  <pre>
+      npm install socket.io-client
+  </pre>
+
+  
+  
+
